@@ -1,3 +1,3 @@
 # new_repository
 learning repository
-smth that i should to write 
+smth that i should write 
