@@ -35,3 +35,4 @@ wilcox.test(dt3$ppltrst, dt3$gndr)
 boxplot(dt3$ppltrst~dt3$gndr)
 wilcox.test(dt3$pplfair, dt3$ppltrst, paired = T)
   boxplot(dt3$pplfair, dt3$ppltrst)
+ что то дописал 
