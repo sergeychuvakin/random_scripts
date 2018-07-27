@@ -38,3 +38,5 @@ wilcox.test(dt3$pplfair, dt3$ppltrst, paired = T)
  что то дописал 
 
  я внес изменения 
+
+ еще изменения 
